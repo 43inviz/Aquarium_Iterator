@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\obj\Debug\Oceanarium.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\obj\Debug\Oceanarium.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\bin\Debug\Oceanarium.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\bin\Debug\Oceanarium.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\bin\Debug\Oceanarium.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\obj\Debug\Oceanarium.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Oceanarium\obj\Debug\Oceanarium.pdb
